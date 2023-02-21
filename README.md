@@ -50,8 +50,13 @@ The dataset used has 34857 observations and 21 explanatory variables related to 
 
 # References
 https://knowledgeburrow.com/what-is-high-cardinality-vs-low-cardinality/
+
 https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/
+
 https://vitalflux.com/correlation-heatmap-with-seaborn-pandas/
+
 https://machinelearningmastery.com/data-leakage-machine-learning/
+
 https://dataschool.com/fundamentals-of-analysis/what-is-an-outlier/
+
 https://www.kaggle.com/code/phoonyein/melbourne-houses-price-analysis-prediction
